@@ -192,4 +192,7 @@ main {
 
 #root {
   text-align: center;
+  padding: 200px 0;
+  align-items: center;
+  justify-content: center;
 }
